@@ -8,6 +8,7 @@ Leetcode Practice
 | ------- |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/linuschoudhury/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/linuschoudhury/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1791-richest-customer-wealth](https://github.com/linuschoudhury/leetcode/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,8 @@ Leetcode Practice
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/linuschoudhury/leetcode/tree/master/1635-number-of-good-pairs) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/linuschoudhury/leetcode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
