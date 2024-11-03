@@ -6,6 +6,7 @@ Leetcode Practice
 ## Array
 |  |
 | ------- |
+| [1505-create-target-array-in-the-given-order](https://github.com/linuschoudhury/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/linuschoudhury/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/linuschoudhury/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/linuschoudhury/leetcode/tree/master/1791-richest-customer-wealth) |
@@ -30,6 +31,7 @@ Leetcode Practice
 ## Simulation
 |  |
 | ------- |
+| [1505-create-target-array-in-the-given-order](https://github.com/linuschoudhury/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/linuschoudhury/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/linuschoudhury/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## String
