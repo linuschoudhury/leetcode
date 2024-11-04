@@ -6,6 +6,7 @@ Leetcode Practice
 ## Array
 |  |
 | ------- |
+| [1241-decompress-run-length-encoded-list](https://github.com/linuschoudhury/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1505-create-target-array-in-the-given-order](https://github.com/linuschoudhury/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/linuschoudhury/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/linuschoudhury/leetcode/tree/master/1635-number-of-good-pairs) |
