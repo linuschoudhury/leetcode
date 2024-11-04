@@ -6,6 +6,7 @@ Leetcode Practice
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/linuschoudhury/leetcode/tree/master/0217-contains-duplicate) |
 | [1241-decompress-run-length-encoded-list](https://github.com/linuschoudhury/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1505-create-target-array-in-the-given-order](https://github.com/linuschoudhury/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/linuschoudhury/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -19,6 +20,7 @@ Leetcode Practice
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/linuschoudhury/leetcode/tree/master/0217-contains-duplicate) |
 | [1635-number-of-good-pairs](https://github.com/linuschoudhury/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
@@ -52,4 +54,8 @@ Leetcode Practice
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/linuschoudhury/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/linuschoudhury/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
