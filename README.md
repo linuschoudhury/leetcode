@@ -15,6 +15,7 @@ Leetcode Practice
 | [1899-count-items-matching-a-rule](https://github.com/linuschoudhury/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/linuschoudhury/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/linuschoudhury/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/linuschoudhury/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Leetcode Practice
 | [1505-create-target-array-in-the-given-order](https://github.com/linuschoudhury/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/linuschoudhury/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/linuschoudhury/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/linuschoudhury/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -46,4 +48,8 @@ Leetcode Practice
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/linuschoudhury/leetcode/tree/master/1833-find-the-highest-altitude) |
+## Two Pointers
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/linuschoudhury/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
