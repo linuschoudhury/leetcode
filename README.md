@@ -6,6 +6,7 @@ Leetcode Practice
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/linuschoudhury/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/linuschoudhury/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/linuschoudhury/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1241-decompress-run-length-encoded-list](https://github.com/linuschoudhury/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
@@ -64,4 +65,8 @@ Leetcode Practice
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/linuschoudhury/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/linuschoudhury/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
