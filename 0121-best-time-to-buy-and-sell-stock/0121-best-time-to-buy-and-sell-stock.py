@@ -4,12 +4,11 @@ class Solution(object):
         :type prices: List[int]
         :rtype: int
         """
-        minprice=prices[0]
+        buyprice=prices[0]
         maxprofit=[0]*len(prices)
         for i in range(len(prices)):
-            if prices[i]<minprice:
-                minprice=prices[i]
-            maxprofit[i]=prices[i]-minprice
-        print maxprofit
+            if prices[i]<buyprice:
+                buyprice=prices[i]
+            maxprofit[i]=prices[i]-buyprice
         return max(maxprofit)
         
