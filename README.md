@@ -8,6 +8,7 @@ Leetcode Practice
 | ------- |
 | [0057-insert-interval](https://github.com/linuschoudhury/leetcode/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/linuschoudhury/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/linuschoudhury/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/linuschoudhury/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/linuschoudhury/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1241-decompress-run-length-encoded-list](https://github.com/linuschoudhury/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
@@ -23,6 +24,7 @@ Leetcode Practice
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/linuschoudhury/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/linuschoudhury/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/linuschoudhury/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1635-number-of-good-pairs](https://github.com/linuschoudhury/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -33,6 +35,7 @@ Leetcode Practice
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/linuschoudhury/leetcode/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/linuschoudhury/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Matrix
 |  |
@@ -61,6 +64,7 @@ Leetcode Practice
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/linuschoudhury/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/linuschoudhury/leetcode/tree/master/0217-contains-duplicate) |
 ## Sliding Window
 |  |
@@ -70,4 +74,8 @@ Leetcode Practice
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/linuschoudhury/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/linuschoudhury/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
