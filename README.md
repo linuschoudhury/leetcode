@@ -12,6 +12,7 @@ Leetcode Practice
 | [0217-contains-duplicate](https://github.com/linuschoudhury/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/linuschoudhury/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0252-meeting-rooms](https://github.com/linuschoudhury/leetcode/tree/master/0252-meeting-rooms) |
+| [0792-binary-search](https://github.com/linuschoudhury/leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/linuschoudhury/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/linuschoudhury/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1505-create-target-array-in-the-given-order](https://github.com/linuschoudhury/leetcode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -91,4 +92,8 @@ Leetcode Practice
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/linuschoudhury/leetcode/tree/master/0409-longest-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/linuschoudhury/leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
