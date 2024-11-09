@@ -29,6 +29,7 @@ Leetcode Practice
 | [0169-majority-element](https://github.com/linuschoudhury/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/linuschoudhury/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/linuschoudhury/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0409-longest-palindrome](https://github.com/linuschoudhury/leetcode/tree/master/0409-longest-palindrome) |
 | [1635-number-of-good-pairs](https://github.com/linuschoudhury/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
@@ -54,6 +55,7 @@ Leetcode Practice
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/linuschoudhury/leetcode/tree/master/0125-valid-palindrome) |
+| [0409-longest-palindrome](https://github.com/linuschoudhury/leetcode/tree/master/0409-longest-palindrome) |
 | [1899-count-items-matching-a-rule](https://github.com/linuschoudhury/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/linuschoudhury/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
@@ -85,4 +87,8 @@ Leetcode Practice
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/linuschoudhury/leetcode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/linuschoudhury/leetcode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
