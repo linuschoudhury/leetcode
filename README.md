@@ -55,6 +55,7 @@ Leetcode Practice
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/linuschoudhury/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/linuschoudhury/leetcode/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/linuschoudhury/leetcode/tree/master/0409-longest-palindrome) |
 | [1899-count-items-matching-a-rule](https://github.com/linuschoudhury/leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -96,4 +97,8 @@ Leetcode Practice
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/linuschoudhury/leetcode/tree/master/0792-binary-search) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/linuschoudhury/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
