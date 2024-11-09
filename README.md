@@ -53,6 +53,7 @@ Leetcode Practice
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/linuschoudhury/leetcode/tree/master/0125-valid-palindrome) |
 | [1899-count-items-matching-a-rule](https://github.com/linuschoudhury/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/linuschoudhury/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
@@ -62,6 +63,7 @@ Leetcode Practice
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/linuschoudhury/leetcode/tree/master/0125-valid-palindrome) |
 | [1019-squares-of-a-sorted-array](https://github.com/linuschoudhury/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/linuschoudhury/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
