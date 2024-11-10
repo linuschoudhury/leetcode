@@ -8,6 +8,7 @@ Leetcode Practice
 | ------- |
 | [0057-insert-interval](https://github.com/linuschoudhury/leetcode/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/linuschoudhury/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/linuschoudhury/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/linuschoudhury/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/linuschoudhury/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/linuschoudhury/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -68,6 +69,7 @@ Leetcode Practice
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/linuschoudhury/leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/linuschoudhury/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/linuschoudhury/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/linuschoudhury/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -96,6 +98,7 @@ Leetcode Practice
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/linuschoudhury/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/linuschoudhury/leetcode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/linuschoudhury/leetcode/tree/master/0792-binary-search) |
 ## Trie
