@@ -8,6 +8,7 @@ Leetcode Practice
 | ------- |
 | [0027-remove-element](https://github.com/linuschoudhury/leetcode/tree/master/0027-remove-element) |
 | [0057-insert-interval](https://github.com/linuschoudhury/leetcode/tree/master/0057-insert-interval) |
+| [0088-merge-sorted-array](https://github.com/linuschoudhury/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/linuschoudhury/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/linuschoudhury/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/linuschoudhury/leetcode/tree/master/0169-majority-element) |
@@ -72,6 +73,7 @@ Leetcode Practice
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/linuschoudhury/leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/linuschoudhury/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/linuschoudhury/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/linuschoudhury/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/linuschoudhury/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -80,6 +82,7 @@ Leetcode Practice
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/linuschoudhury/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/linuschoudhury/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/linuschoudhury/leetcode/tree/master/0217-contains-duplicate) |
 | [0252-meeting-rooms](https://github.com/linuschoudhury/leetcode/tree/master/0252-meeting-rooms) |
