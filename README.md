@@ -16,6 +16,7 @@ Leetcode Practice
 | [0219-contains-duplicate-ii](https://github.com/linuschoudhury/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0252-meeting-rooms](https://github.com/linuschoudhury/leetcode/tree/master/0252-meeting-rooms) |
 | [0283-move-zeroes](https://github.com/linuschoudhury/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/linuschoudhury/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/linuschoudhury/leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/linuschoudhury/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/linuschoudhury/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
@@ -35,6 +36,7 @@ Leetcode Practice
 | [0202-happy-number](https://github.com/linuschoudhury/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/linuschoudhury/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/linuschoudhury/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/linuschoudhury/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/linuschoudhury/leetcode/tree/master/0409-longest-palindrome) |
 | [1635-number-of-good-pairs](https://github.com/linuschoudhury/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Math
@@ -84,6 +86,7 @@ Leetcode Practice
 | [0202-happy-number](https://github.com/linuschoudhury/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/linuschoudhury/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/linuschoudhury/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/linuschoudhury/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0953-reverse-only-letters](https://github.com/linuschoudhury/leetcode/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/linuschoudhury/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/linuschoudhury/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -95,6 +98,7 @@ Leetcode Practice
 | [0169-majority-element](https://github.com/linuschoudhury/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/linuschoudhury/leetcode/tree/master/0217-contains-duplicate) |
 | [0252-meeting-rooms](https://github.com/linuschoudhury/leetcode/tree/master/0252-meeting-rooms) |
+| [0349-intersection-of-two-arrays](https://github.com/linuschoudhury/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/linuschoudhury/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -117,6 +121,7 @@ Leetcode Practice
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/linuschoudhury/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/linuschoudhury/leetcode/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/linuschoudhury/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/linuschoudhury/leetcode/tree/master/0792-binary-search) |
 ## Trie
 |  |
