@@ -62,6 +62,7 @@ Leetcode Practice
 | [0014-longest-common-prefix](https://github.com/linuschoudhury/leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/linuschoudhury/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/linuschoudhury/leetcode/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/linuschoudhury/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/linuschoudhury/leetcode/tree/master/0409-longest-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/linuschoudhury/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/linuschoudhury/leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -78,6 +79,7 @@ Leetcode Practice
 | [0125-valid-palindrome](https://github.com/linuschoudhury/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/linuschoudhury/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/linuschoudhury/leetcode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/linuschoudhury/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/linuschoudhury/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/linuschoudhury/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/linuschoudhury/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
