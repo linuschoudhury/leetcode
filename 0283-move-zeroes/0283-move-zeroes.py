@@ -1,17 +1,15 @@
 class Solution(object):
     def moveZeroes(self, nums):
-        left=0
-        right=0
-        while left<len(nums):
-            if nums[left]!=0:
-                if nums[right]==0:
-                    nums[left],nums[right]=nums[right],nums[left]
-                right+=1
-            left+=1
-                
-            
-
-        
+        """
+        :type nums: List[int]
+        :rtype: None Do not return anything, modify nums in-place instead.
+        """
+        i=0
+        j=0
+        for i in range(len(nums)):
+            if nums[i]!=0:
+                nums[i],nums[j]=nums[j],nums[i]
+                j+=1
         
 
 
